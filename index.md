@@ -1,9 +1,6 @@
 # Ball Tracking Robot
 This is a ball tracking robot that uses a Raspberry Pi as the minicomputer, a PiCamera for vision, and DC motors to drive the robot. The robot will see the ball and follow it.
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
