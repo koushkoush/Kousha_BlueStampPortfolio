@@ -37,8 +37,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8QkySfiItk?si=2F1nYljTh8tQl-XF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 For my first milestone, I completed the assembly of the main drivetrain. I started by wiring the ultrasonic sensors to my breadboard, ensuring I use the correct resistors to adjust the voltage. Next I connected my Raspberry Pi to the breadboard, noting the GPIO ports used because I would need them in my code. Finally, I connected the H-Bridge to the power supply, the Raspberry Pi, and the drive motors.
