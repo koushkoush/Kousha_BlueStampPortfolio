@@ -30,9 +30,9 @@ For my first milestone, I completed the assembly of the main drivetrain. I start
 !Circuit Diagram Schematic (schematic.png)
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-'''
+
+'''python
 import cv2
 
 import RPi.GPIO as GPIO
