@@ -7,7 +7,7 @@ This is a ball tracking robot that uses a Raspberry Pi as the minicomputer, a Pi
 | Kousha A | Los Gatos High School | Mechanical Engineering | Incoming Junior
 
 
-![Headstone Image](logo.svg)
+![Headstone Image](IMG_0613.HEIC)
   
 # Final Milestone
 
