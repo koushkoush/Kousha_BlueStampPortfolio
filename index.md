@@ -27,7 +27,7 @@ For my Final milestone, I got my ball tracking working and started creating my U
 For my first milestone, I completed the assembly of the main drivetrain. I started by wiring the ultrasonic sensors to my breadboard, ensuring I use the correct resistors to adjust the voltage. Next I connected my Raspberry Pi to the breadboard, noting the GPIO ports used because I would need them in my code. Finally, I connected the H-Bridge to the power supply, the Raspberry Pi, and the drive motors.
 
 # Schematics 
-![Circuit Diagram Schematic] (schematic.png)
+![schematic](schematic.png)
 
 # Code
 
