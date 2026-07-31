@@ -32,7 +32,7 @@ For my first milestone, I completed the assembly of the main drivetrain. I start
 # Code
 
 
-'''python
+```python
 
 import cv2
 import RPi.GPIO as GPIO
@@ -688,7 +688,7 @@ finally:
     stop()
     stoptake()
     GPIO.cleanup()
-'''
+```
 
 
 
