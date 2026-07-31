@@ -6,7 +6,6 @@ This is a ball tracking robot that uses a Raspberry Pi as the minicomputer, a Pi
 |:--:|:--:|:--:|:--:|
 | Kousha A | Los Gatos High School | Mechanical Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
@@ -16,7 +15,9 @@ This is a ball tracking robot that uses a Raspberry Pi as the minicomputer, a Pi
 
 For my Final milestone, I got my ball tracking working and started creating my UI for the user. One thing I struggled with was the intake being very heavy, but I solved that by using string to pull back the intake and bring the CoG farther back on the bot.
 
+# Second Milestone
 
+For my second milestone, I completed the basic drivetrain code for my robot. My robot now drives with WASD, and I created a simple localhost to run the commands on. The page is very simple for now, but it will be nicer once I add more commands and things for my third milestone.
 
 
 # First Milestone
