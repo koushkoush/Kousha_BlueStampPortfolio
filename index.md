@@ -33,8 +33,8 @@ For my first milestone, I completed the assembly of the main drivetrain. I start
 
 
 '''python
-import cv2
 
+import cv2
 import RPi.GPIO as GPIO
 import time
 import threading
