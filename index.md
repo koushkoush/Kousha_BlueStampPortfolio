@@ -11,6 +11,12 @@ This is a ball tracking robot that uses a Raspberry Pi as the minicomputer, a Pi
   
 # Final Milestone
 
+## Final Demo Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37Xk1iORJ8I" title="Kousha A. Final Demo Presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Final Milestone Update
+
 <iframe width="1192" height="670" src="https://www.youtube.com/embed/2VFJ4_xaSBM" title="Kousha A. Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my Final milestone, I got my ball tracking working and started creating my UI for the user. One thing I struggled with was the intake being very heavy, but I solved that by using string to pull back the intake and bring the CoG farther back on the bot.
