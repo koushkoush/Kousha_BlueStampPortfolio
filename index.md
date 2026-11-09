@@ -27,6 +27,22 @@ For my second milestone, I completed the basic drivetrain code for my robot. My 
 
 For my first milestone, I completed the assembly of the main drivetrain. I started by wiring the ultrasonic sensors to my breadboard, ensuring I use the correct resistors to adjust the voltage. Next I connected my Raspberry Pi to the breadboard, noting the GPIO ports used because I would need them in my code. Finally, I connected the H-Bridge to the power supply, the Raspberry Pi, and the drive motors.
 
+# Intake Design
+
+Before designing the intake in CAD, I tested different amounts of compression with my hands. Compression is how much the ball is squeezed when it sits between the intake wheels. I wanted enough compression to grip the ball, while still allowing it to move through the intake. Testing this by hand helped me choose the compression values to use in my design.
+
+Next, I created a dimensioned sketch based on the compression values that worked best. I used those results to set the spacing between the intake wheels and design the supporting structure around them. This let me turn the results of my hands-on testing into the geometry of the intake.
+
+![Dimensioned sketch of the intake structure](https://github.com/user-attachments/assets/41899155-1cce-47bf-a2d1-386207c8321f)
+
+After completing the sketch, I extruded the profiles to turn them into 3D parts. I then created a CAD assembly to bring the parts together with the wheels, shafts, gears, belts, and motor. The assembly shows how the components fit together around the ball.
+
+![Front view of the intake CAD assembly with the ball between the wheels](https://github.com/user-attachments/assets/1bc3dc07-6e76-4872-a240-79a3d99f47bf)
+
+![Rear view of the intake CAD assembly showing the motor and belt drive](https://github.com/user-attachments/assets/7eefca67-1be0-4987-aff6-ce6e682846d0)
+
+Finally, I 3D printed all of the custom parts I designed for the intake. This took the design from hand testing, to a sketch, to a complete CAD assembly, and then to physical parts for my robot.
+
 # Schematics 
 ![schematic](schematic.png)
 
